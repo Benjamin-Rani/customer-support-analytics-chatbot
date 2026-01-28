@@ -1,0 +1,21 @@
+ticket_id,created_at,company,category,status,customer_message
+1,2024-01-01,TelcoA,Billing,Resolved,My bill is too high
+2,2024-01-02,TelcoB,Network Issue,Pending,Internet is not working
+3,2024-01-03,TelcoC,Account,Resolved,I want to update my account details
+4,2024-01-04,TelcoA,Technical,Resolved,My router is not working
+5,2024-01-05,TelcoB,Billing,Pending,Incorrect billing amount
+6,2024-01-06,TelcoA,Billing,Resolved,My bill is too high
+7,2024-01-07,TelcoB,Network Issue,Pending,Internet is not working
+8,2024-01-08,TelcoC,Account,Resolved,I want to update my account details
+9,2024-01-09,TelcoA,Technical,Resolved,My router is not working
+10,2024-01-10,TelcoB,Billing,Pending,Incorrect billing amount
+11,2024-01-11,TelcoA,Billing,Resolved,My bill is too high
+12,2024-01-12,TelcoB,Network Issue,Pending,Internet is not working
+13,2024-01-13,TelcoC,Account,Resolved,I want to update my account details
+14,2024-01-14,TelcoA,Technical,Resolved,My router is not working
+15,2024-01-15,TelcoB,Billing,Pending,Incorrect billing amount
+16,2024-01-16,TelcoA,Billing,Resolved,My bill is too high
+17,2024-01-17,TelcoB,Network Issue,Pending,Internet is not working
+18,2024-01-18,TelcoC,Account,Resolved,I want to update my account details
+19,2024-01-19,TelcoA,Technical,Resolved,My router is not working
+20,2024-01-20,TelcoB,Billing,Pending,Incorrect billing amount
